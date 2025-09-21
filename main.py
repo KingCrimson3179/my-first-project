@@ -12,7 +12,7 @@ try:
         
         # Read all the content from the file into a variable.
         content = file.read()
-        
+        # ...
         print("\n--- File Content ---")
         if content:
             # If the file has content, print it.
