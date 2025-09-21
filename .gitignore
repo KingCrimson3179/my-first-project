@@ -1,0 +1,4 @@
+# Ignore files that you don't want to track with Git in here
+# Refer to this link https://git-scm.com/docs/gitignore for a detailed explanation of the syntax
+
+my_document.txt
